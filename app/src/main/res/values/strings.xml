@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">dropDownMenuExample</string>
+    <string-array name="languages">
+        <item>B+</item>
+        <item>A+</item>
+        <item>AB+</item>
+        <item>A-</item>
+        <item>O-</item>
+        <item>O+</item>
+        <item>AB-</item>
+    </string-array>
+</resources>
